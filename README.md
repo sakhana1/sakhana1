@@ -1,213 +1,260 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                         HERO SECTION                            -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
+# 👋 Hi, I'm **Sakhana J**
 
 <div align="center">
 
-# 👋 Hi, I'm **Sakhana J**
+### `Full Stack Developer` • `AI/ML Developer` • `UI/UX Designer`
 
-###  `Frontend Developer` • `UI/UX Designer`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Designing+Beautiful+Web+Experiences;Turning+Ideas+into+Interactive+Interfaces;Frontend+Development+%7C+UI%2FUX+Design;Creating+Clean%2C+Modern+%26+Responsive+Websites" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=EC4899&center=true&vCenter=true&width=800&lines=Building+Modern+Full+Stack+Applications;Exploring+Artificial+Intelligence+%26+Machine+Learning;Designing+Beautiful+User+Experiences;Turning+Ideas+into+Real+World+Solutions;Learning+Today%2C+Building+Tomorrow" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-sakhana1-181717?style=for-the-badge\&logo=github)](https://github.com/sakhana1)
-[![Profile Views](https://komarev.com/ghpvc/?username=sakhana1\&style=for-the-badge\&color=A855F7)](https://github.com/sakhana1)
+[![GitHub](https://img.shields.io/badge/GitHub-sakhana1-181717?style=for-the-badge&logo=github)](https://github.com/sakhana1)
+[![Profile Views](https://komarev.com/ghpvc/?username=sakhana1&style=for-the-badge&color=EC4899)](https://github.com/sakhana1)
 
 </div>
 
 ---
 
-# 🎨 About Me
+# 🌸 About Me
 
-Hi! I'm **Sakhana J**, a **B.E. Computer Science & Engineering (AI & ML)** student with a strong interest in **Frontend Development and UI/UX Design**.
+Hi! I'm **Sakhana J**, a Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning**.
 
-I enjoy transforming ideas into **clean, modern, responsive, and visually engaging web interfaces**.
+I'm passionate about building modern web applications, developing intelligent AI-powered solutions, and creating beautiful user experiences.
 
-For me, frontend development is more than writing code — it's about creating experiences that feel **simple, intuitive, interactive, and enjoyable to use**.
+I enjoy working across different areas of technology, from designing intuitive interfaces to developing backend systems and exploring machine learning models.
 
-### 💜 What I'm Passionate About
+For me, technology is not just about writing code — it's about transforming ideas into meaningful solutions.
 
-* 🎨 UI/UX Design
-* 💻 Frontend Development
-* 🌐 Responsive Web Design
-* ✨ Interactive User Interfaces
-* 🖌️ Creative Web Experiences
-* 📱 Mobile-Friendly Design
-* ⚡ Smooth & intuitive interactions
-* 🧩 Turning designs into functional websites
+### ✨ What I'm Passionate About
+
+- 💻 Full Stack Web Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 🎨 UI/UX Design
+- 🧠 Computer Vision
+- 🌐 Modern Web Applications
+- ⚡ Interactive User Experiences
+- 🗄️ Database Design & Development
+- 🚀 Building Real-World Projects
 
 ---
 
 # 🛠️ My Tech Stack
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
-<p align="left">
+<div align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+### ⚙️ Backend Development
 
-</p>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,python,django,express" />
+</div>
 
-### 🎨 Design
+### 🗄️ Database
 
-<p align="left">
+<div align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
+</div>
 
+### 🤖 AI & Machine Learning
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</div>
+
+### 🎨 UI/UX Design
+
+<div align="left">
 <img src="https://skillicons.dev/icons?i=figma" />
+</div>
 
-</p>
+### 🔧 Development Tools
 
-### 🔧 Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</p>
+<div align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
+</div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 My Projects & Repositories
 
-## 📚 GutenbergX
+A collection of my projects, experiments, learning implementations, and development work.
 
-### *A modern reading experience inspired by Project Gutenberg.*
+## 🤖 AI, Machine Learning & Computer Vision
 
-GutenbergX is a **modern UI/UX redesign of a legacy e-book platform**, created with a strong focus on visual design and user experience.
+| Project | Description | Repository |
+|---|---|---|
+| SatQuery-X | Interactive satellite image analysis project | [View](https://github.com/sakhana1/SatQuery-X) |
+| SatQuery-AI | Satellite analysis and AI assistant project | [View](https://github.com/sakhana1/SatQuery-AI) |
+| RouteRakshak-AI | AI-powered campus transportation, journey planning and student safety platform | [View](https://github.com/sakhana1/RouteRakshak-AI) |
+| ML Deploy | Machine learning deployment project | [View](https://github.com/sakhana1/ml-deploy) |
+| ML Docker Deployment | Machine learning deployment using Docker | [View](https://github.com/sakhana1/ml-docker-deployment) |
 
-### ✨ Features
+## 💻 Full Stack & Web Development
 
-* 📚 Interactive book shelves
-* 🎨 Modern interface
-* 🌙 Dark / neon-inspired themes
-* 📖 Immersive reading experience
-* ✨ Smooth animations
-* 📱 Responsive design
-* 🧭 Simple and intuitive navigation
+| Project | Description | Repository |
+|---|---|---|
+| EduCore | Responsive e-learning platform with courses, video lessons and progress tracking | [View](https://github.com/sakhana1/EduCore) |
+| CodeAlpha LinguaAI | AI-powered multilingual translation tool supporting 14 languages | [View](https://github.com/sakhana1/CodeAlpha_LinguaAI) |
+| ChatSphere | Interactive quiz application with categories, feedback and score tracking | [View](https://github.com/sakhana1/chatsphere) |
+| Quiz App | Responsive interactive quiz application | [View](https://github.com/sakhana1/Quiz-App) |
+| AWS CodeDeploy Demo | Automated website deployment using AWS CodePipeline and CodeDeploy | [View](https://github.com/sakhana1/aws-codedeploy-demo) |
+| GitHub Web Connection | GitHub and AWS connection project | [View](https://github.com/sakhana1/GitHub-Web-Connection) |
 
-**Tech:** `HTML` `CSS` `JavaScript`
+## 🎨 Frontend Development & UI/UX Design
+
+| Project | Description | Repository |
+|---|---|---|
+| GutenbergX | Modern UI/UX redesign of a digital e-book platform | [View](https://github.com/sakhana1/GutenbergX) |
+| Portfolio | Personal portfolio website | [View](https://github.com/sakhana1/Portfolio) |
+| Image Gallery | MoodScape image gallery developed during CodeAlpha internship | [View](https://github.com/sakhana1/Image-Gallery) |
+| Music Player | Web-based interactive music player | [View](https://github.com/sakhana1/Music-Player) |
+| CodeAlpha Task 1 | High-fidelity frontend design project | [View](https://github.com/sakhana1/CodeAlpha_Task1_High_fidelity) |
+| CodeAlpha Task 2 | Low-fidelity UI/UX design project | [View](https://github.com/sakhana1/CodeAlpha_Task2_Low_Fidelity) |
+
+
+# 💻 What I Build
+
+<div align="center">
+
+| 💻 Full Stack Development | 🤖 AI / ML Development | 🎨 UI/UX Design |
+|:---:|:---:|:---:|
+| Modern Web Apps | Intelligent Systems | User-Centered Design |
+| REST APIs | Machine Learning | Wireframes |
+| Backend Systems | Computer Vision | Prototyping |
+| Database Integration | Data Processing | Visual Design |
+| Responsive Websites | AI Applications | Interactive Interfaces |
+
+</div>
 
 ---
 
-## 🎵 Music Player
+# 🧩 My Development Workflow
 
-A visually appealing **web-based music player** focused on creating a simple and interactive music experience.
-
-### ✨ Highlights
-
-* 🎵 Clean music interface
-* ▶️ Interactive controls
-* 🎨 User-friendly layout
-* 📱 Responsive design
-* ✨ Focus on visual experience
-
-**Tech:** `HTML` `CSS`
-
----
-
-## 🌐 Portfolio
-
-A personal portfolio website designed to showcase **skills, projects, creativity, and development work**.
-
-The project focuses on presenting information through a clean and visually appealing frontend.
-
-**Tech:** `HTML` `CSS`
-
----
-
-# 💻 Frontend Development
-
-I enjoy working on the complete visual side of a web application:
+<div align="center">
 
 ```text
-             💡 IDEA
-                │
-                ▼
-        🎨 UI / UX DESIGN
-                │
-                ▼
-          🖥️ FRONTEND
-                │
-        ┌───────┼────────┐
-        ▼       ▼        ▼
-      Layout  Animation  Interaction
-        │       │        │
-        └───────┼────────┘
-                ▼
-        📱 RESPONSIVE UI
-                │
-                ▼
-       ✨ BETTER USER EXPERIENCE
+                 💡 IDEA
+                    |
+                    ▼
+             🔍 RESEARCH
+                    |
+                    ▼
+             🎨 UI/UX DESIGN
+                    |
+                    ▼
+             💻 DEVELOPMENT
+                    |
+          ┌─────────┴─────────┐
+          ▼                   ▼
+      FRONTEND             BACKEND
+          |                   |
+          └─────────┬─────────┘
+                    |
+                    ▼
+             🗄️ DATABASE
+                    |
+                    ▼
+              🤖 AI / ML
+                    |
+                    ▼
+             🧪 TESTING
+                    |
+                    ▼
+              🚀 DEPLOYMENT
+                    |
+                    ▼
+          ✨ REAL-WORLD SOLUTION
 ```
+
+</div>
 
 ---
 
 # 🎯 My Current Focus
 
-### 🖥️ Frontend Development
+### 💻 Full Stack Development
 
-Learning and improving my ability to create:
+- Building responsive web applications
+- React-based frontend development
+- Node.js backend development
+- REST API integration
+- PostgreSQL database management
+- Scalable application architecture
 
-* Responsive websites
-* Modern landing pages
-* Interactive interfaces
-* Component-based designs
-* Smooth animations
-* Mobile-friendly layouts
+### 🤖 Artificial Intelligence & Machine Learning
+
+- Machine Learning algorithms
+- Deep Learning fundamentals
+- Computer Vision applications
+- Image processing
+- AI-powered applications
+- Model development and evaluation
 
 ### 🎨 UI/UX Design
 
-Exploring:
-
-* User-centered design
-* Wireframing
-* Prototyping
-* Visual hierarchy
-* Typography
-* Color systems
-* Design consistency
-* Usability
+- User-centered design
+- Wireframing and prototyping
+- Visual hierarchy
+- Typography and color systems
+- Responsive interface design
+- Usability and accessibility
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Learning & Growing
 
 ```text
-HTML & CSS
-   ↓
-JavaScript
-   ↓
-Responsive Web Design
-   ↓
-Modern UI Development
-   ↓
-Advanced Frontend Techniques
-   ↓
-Better UI / UX
+       FULL STACK DEVELOPMENT
+                  |
+                  ▼
+       ADVANCED WEB TECHNOLOGIES
+                  |
+                  ▼
+       ARTIFICIAL INTELLIGENCE
+                  |
+                  ▼
+        MACHINE LEARNING
+                  |
+                  ▼
+          COMPUTER VISION
+                  |
+                  ▼
+          BETTER UI / UX
+                  |
+                  ▼
+        REAL-WORLD PROJECTS
 ```
 
-My goal is to continuously improve both my **design thinking** and **frontend development skills**.
+I believe in continuous learning, practical implementation, and improving through every project I build.
 
 ---
 
-# ✨ What Makes My Work Different?
+# ✨ My Development Philosophy
 
-I don't want to build websites that simply *work*.
+I believe a great digital product should combine three important things:
 
-I want to build websites that:
+<div align="center">
 
-> **Look good. Feel good. Work smoothly.**
+### 🎨 DESIGN
 
-My focus is on balancing:
+Beautiful and intuitive interfaces.
 
-|   🎨 Design   | 💻 Development | 🧑‍💻 Experience |
-| :-----------: | :------------: | :--------------: |
-| Visual appeal |   Clean code   |  Easy navigation |
-|   Creativity  | Responsiveness |     Usability    |
-|  Consistency  |   Performance  |    Interaction   |
+### 💻 DEVELOPMENT
+
+Clean, efficient, and maintainable code.
+
+### 🤖 INTELLIGENCE
+
+Smart solutions that solve real problems.
+
+<br/>
+
+> **Think Creatively. Build Intelligently. Design Beautifully.**
+
+</div>
 
 ---
 
@@ -215,9 +262,9 @@ My focus is on balancing:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sakhana1&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sakhana1&show_icons=true&hide_border=true&bg_color=FFF7FB&title_color=DB2777&icon_color=EC4899&text_color=4B5563&rank_icon=github" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhana1&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhana1&layout=compact&hide_border=true&bg_color=FFF7FB&title_color=DB2777&text_color=4B5563" />
 
 </div>
 
@@ -227,7 +274,7 @@ My focus is on balancing:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sakhana1&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=sakhana1&theme=default&hide_border=true&background=FFF7FB&ring=EC4899&fire=F472B6&currStreakLabel=DB2777&sideLabels=DB2777&dates=9CA3AF" />
 
 </div>
 
@@ -237,21 +284,19 @@ My focus is on balancing:
 
 <div align="center">
 
-### `13+` Repositories   •   `57+` Contributions   •   `∞` Ideas
+Every repository represents a new idea, every commit represents progress, and every project is an opportunity to learn something new.
+
+**Building • Experimenting • Learning • Improving**
 
 </div>
-
-Every project is a chance to learn something new, experiment with design, and improve my development skills.
 
 ---
 
 # 🎯 My Goal
 
-My goal is to grow into a **skilled Frontend Developer and UI/UX Designer** who can transform creative ideas into polished digital experiences.
+My goal is to become a versatile software developer who can combine **Full Stack Development, Artificial Intelligence, Machine Learning, and UI/UX Design** to build innovative digital products.
 
-I want to keep improving in:
-
-**Design → Development → Interaction → User Experience**
+I want to create applications that are not only technically powerful but also visually appealing, intelligent, and easy to use.
 
 ---
 
@@ -269,8 +314,8 @@ I want to keep improving in:
 
 <div align="center">
 
-### 💜 Thanks for visiting my profile!
+### 🩷 Thanks for visiting my profile!
 
-**Design it. Build it. Make it better. ✨**
+**Design. Develop. Innovate. Repeat. ✨**
 
 </div>
